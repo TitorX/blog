@@ -2,8 +2,9 @@
 title: 在无界面环境下运行matplotlib
 author: Titor
 tags: 
-    - python 
+    - python
     - matplotlib
+    - 科学计算
     - snippets
 ---
 
