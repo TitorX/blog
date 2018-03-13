@@ -1,4 +1,5 @@
 ---
+id: 3
 title: 使用scipy进行一维插值运算
 author: Titor
 tags: 
@@ -13,6 +14,8 @@ tags:
 如：每隔1小时采集一次地面温度，但是由于各种意外情况，导致一份数据中很多个时刻是没有数据的，也就是存在不定数量的的空缺点。
 
 这时候就需要通过数学的方法对空缺的数值进行补全。
+
+<!--more-->
 
 来看一段来自wikipedia的描述
 
@@ -30,8 +33,6 @@ import matplotlib.pyplot as plt
 # 原始数据
 x = np.arange(0, 11)
 y = np.cos(x)
-
-plt.scatter(x, y, color='r', label="r")
 
 # 插值数据
 new_x = np.arange(0, 10, 0.1)

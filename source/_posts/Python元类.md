@@ -1,4 +1,5 @@
 ---
+id: 1
 title: Python元类
 author: Titor
 tags: 
