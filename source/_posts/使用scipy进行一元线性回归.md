@@ -12,6 +12,8 @@ tags:
 
 线性回归是一个使用频率较高的计算。对于基本的一元线性回归，scipy中已经封装好了相应的方法。
 
+<!--more-->
+
 ```python
 import numpy as np
 from scipy.stats import linregress
