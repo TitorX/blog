@@ -2,6 +2,7 @@
 id: 1
 title: Python元类
 author: Titor
+date: 2018-03-13
 tags: 
     - python 
     - 元类 

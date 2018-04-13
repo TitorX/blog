@@ -1,6 +1,7 @@
 ---
 id: 2
 title: 在无界面环境下运行matplotlib
+date: 2018-04-1
 author: Titor
 tags: 
     - python

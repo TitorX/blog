@@ -2,6 +2,7 @@
 id: 3
 title: 使用scipy进行一维插值运算
 author: Titor
+date: 2018-04-3
 tags: 
     - python
     - scipy

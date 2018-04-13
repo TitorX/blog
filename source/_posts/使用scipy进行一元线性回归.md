@@ -2,6 +2,7 @@
 id: 4
 title: 使用scipy进行一元线性回归
 author: Titor
+date: 2018-04-4
 tags: 
     - python
     - scipy
