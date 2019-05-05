@@ -1,5 +1,5 @@
 ---
-id: dd0f4dc2-2b25-11e8-be07-d0817ab24480
+id: 7
 title: Ubuntu设置屏幕分辨率
 date: 2018-04-12
 author: Titor
